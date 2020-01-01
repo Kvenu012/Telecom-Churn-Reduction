@@ -8,5 +8,5 @@ Models' accuracy in Predicting Negative Response: GBM - 92% SVM - 88% RF - 91% K
 
 Important Features:
 
-Total Day, Evening, International Calls
-Number of Customer Service 
+1) Total Day, Evening, International Calls. 
+2) Number of Customer Service.
